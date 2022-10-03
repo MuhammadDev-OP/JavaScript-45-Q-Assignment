@@ -5,14 +5,14 @@ alien_col = [
     'Black',
     'Yellow'
 ];
-if(alien_col = 'Red'){
+if(alien_col == 'Red'){
     console.log("you Earned 15 points for shooting the alien");
 }
-else if (alien_col = 'Green'){
+else if (alien_col == 'Green'){
     console.log("you Earned 5 points for shooting the alien");
 }
 
-else if(alien_col = 'Yellow'){
+else if(alien_col == 'Yellow'){
     console.log("you Earned 10 points for shooting the alien");
 } 
 
